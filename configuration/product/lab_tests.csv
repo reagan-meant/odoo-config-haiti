@@ -1,0 +1,17 @@
+id,product_variant_ids/uuid,name,product_variant_ids/categ_id/id,type,lst_price
+haiti_LAB1001,571e8f4f-4d98-40eb-bd55-c88b8a8ab76d,Gravindex,product.labOrders,service,90
+haiti_LAB1002,dbff115d-32df-4bd5-8265-832e1f3cbe5e,Fasting blood glucose,product.labOrders,service,90
+haiti_LAB1003,3a7aefbf-3334-4add-88a0-42ee1c6fd8dd,Random blood glucose,product.labOrders,service,90
+haiti_LAB1004,df5686c1-ad0c-4deb-9919-f77446fd5bb9,HbA1C,product.labOrders,service,90
+haiti_LAB1005,00ce9624-11e3-4015-b695-d7ff7cb3930e,Blood Group,product.labOrders,service,85
+haiti_LAB1006,245ff935-a1f7-4dc6-8a1d-f2ff62ee2af9,Urine Macroscopy,product.labOrders,service,80
+haiti_LAB1007,d04c0077-d9b3-4281-8308-38fcc6f596c0,Urine Microscopy,product.labOrders,service,80
+haiti_LAB1008,382c9fa6-81d8-48c7-8b45-7866f5473030,Sickling Test,product.labOrders,service,75
+haiti_LAB1009,784a3266-485d-49a3-851f-2a2c93df4edb,Pap Smear,product.labOrders,service,85
+haiti_LAB1010,3fb9fc5a-3a35-4298-9a92-c24853adf4f9,Hematocrit,product.labOrders,service,60
+haiti_LAB1011,e1a77dc7-c7d6-41d2-9c4e-93acc1093bcf,Complete Blood Count,product.labOrders,service,125
+haiti_LAB1012,7036964e-e177-465e-8af8-b1b761f290c5,Sedimentation Rate,product.labOrders,service,100
+haiti_LAB1013,a60b7de5-d126-4b28-8efc-2a81de5165f0,Widal,product.labOrders,service,100
+haiti_LAB1014,92f1d76a-4091-4b99-83d4-633b5fbd096e,H. Pylori,product.labOrders,service,350
+haiti_LAB1015,ecf27ffa-fb50-4fbb-bcf5-05c34b4d2e89,Malaria Test,product.labOrders,service,0
+haiti_LAB1016,c960002a-a4fd-425d-b24a-c255862e3e03,Stool Analysis,product.labOrders,service,75
