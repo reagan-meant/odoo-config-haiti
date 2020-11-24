@@ -1,0 +1,25 @@
+id,name,discount_policy,sequence,currency_id/id,item_ids/applied_on,item_ids/base,item_ids/compute_price,item_ids/min_quantity,item_ids/fixed_price,item_ids/product_tmpl_id/id
+init.product_pricelist_Insurance_Selective,Insurance Pay - Selective Case,Discount included in the price,3,base.HTG,Product,Public Price,Fix Price,1,350,PDT1001
+,,,,,Product,Public Price,Fix Price,1,350,PDT1002
+,,,,,Product,Public Price,Fix Price,1,350,PDT1003
+,,,,,Product,Public Price,Fix Price,1,350,PDT1004
+,,,,,Product,Public Price,Fix Price,1,350,PDT1005
+,,,,,Product,Public Price,Fix Price,1,500,PDT1006
+,,,,,Product,Public Price,Fix Price,1,350,PDT1007
+,,,,,Product,Public Price,Fix Price,1,350,PDT1008
+,,,,,Product,Public Price,Fix Price,1,350,PDT1009
+,,,,,Product,Public Price,Fix Price,1,300,PDT1010
+,,,,,Product,Public Price,Fix Price,1,1750,PDT1011
+,,,,,Product,Public Price,Fix Price,1,1500,PDT1012
+,,,,,Product,Public Price,Fix Price,1,1250,PDT1013
+,,,,,Product,Public Price,Fix Price,1,4500,PDT1014
+,,,,,Product,Public Price,Fix Price,1,6000,PDT1015
+,,,,,Product,Public Price,Fix Price,1,300,PDT1016
+,,,,,Product,Public Price,Fix Price,1,300,PDT1017
+,,,,,Product,Public Price,Fix Price,1,1000,PDT1018
+,,,,,Product,Public Price,Fix Price,1,300,PDT1019
+,,,,,Product,Public Price,Fix Price,1,300,PDT1020
+,,,,,Product,Public Price,Fix Price,1,400,PDT1021
+,,,,,Product,Public Price,Fix Price,1,400,PDT1022
+,,,,,Product,Public Price,Fix Price,1,300,PDT1023
+,,,,,Product,Public Price,Fix Price,1,450,PDT1024
