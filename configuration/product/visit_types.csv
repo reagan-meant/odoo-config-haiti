@@ -1,0 +1,7 @@
+id,name,product_variant_ids/categ_id/id,type,lst_price
+haiti_VIS1001,Prénatal,product.visitTypes,service,90
+haiti_VIS1002,Général,product.visitTypes,service,100
+haiti_VIS1003,Malnutrition,product.visitTypes,service,110
+haiti_VIS1004,Vaccination infantile,product.visitTypes,service,120
+haiti_VIS1005,Planification familiale,product.visitTypes,service,130
+haiti_VIS1001,TB,product.visitTypes,service,140
