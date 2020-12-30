@@ -3,3 +3,4 @@ haiti.Product,Product
 haiti.Radiology,Radiology Order
 haiti.LabTest,Lab Order
 haiti.Drug,Drug Order
+haiti.Service,Service Order

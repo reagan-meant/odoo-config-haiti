@@ -1,2 +1,2 @@
 "id","name","currency_id/id","phone","city","country_id/id","street","street2"
-"base.main_company","Haiti","base.HTG","+509 413-642-0450","Ludlow","base.ht","Mekom/Haiti","362 Sewall Street PO Box 804"
+"base.main_company","Haiti","base.HTG","","Port-au-Prince","base.ht","",""

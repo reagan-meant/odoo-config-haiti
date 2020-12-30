@@ -1,3 +1,4 @@
 id,name,parent_id/id,property_valuation,property_cost_method,type,property_account_income_categ_id/id,property_account_expense_categ_id/id
-product.product,Clinic,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
-product.labOrders,Clinic,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
+product.product,Product,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
+product.labOrders,LabOrders,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
+product.visitTypes,Visit types,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
