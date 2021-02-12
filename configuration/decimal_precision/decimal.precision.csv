@@ -1,0 +1,3 @@
+id,digits,name
+init.product_price_precision,0,"Product Price"
+init.product_unit_of_measure_precision,0,"Product Unit of Measure"
