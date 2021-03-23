@@ -1,5 +1,4 @@
 id,name,code,type,default_credit_account_id/id,default_debit_account_id/id
 init.cash_journal,Cash,CASH,Sale,haiti_account_1020,haiti_account_1020
 init.bank_journal,Bank,BNK,Sale,haiti_account_1020,haiti_account_1020
-init.credit_card_journal,Credit Card,CC,Sale,haiti_account_1020,haiti_account_1020
 init.cheque_journal,Cheque,CHK,Sale,haiti_account_1020,haiti_account_1020

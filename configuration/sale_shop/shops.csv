@@ -1,2 +1,2 @@
 id,name,warehouse_id/id,payment_default_id/id
-haiti.shop,Shop,stock.warehouse0,account.account_payment_term_immediate
+haiti.pharmacy,Pharmacy,stock.warehouse0,account.account_payment_term_immediate
