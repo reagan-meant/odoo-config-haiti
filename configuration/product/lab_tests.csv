@@ -1,70 +1,70 @@
 id,product_variant_ids/uuid,name,product_variant_ids/categ_id/id,type,lst_price
-haiti_LAB1001,571e8f4f-4d98-40eb-bd55-c88b8a8ab76d,Gravindex,product.labOrders,service,90
-haiti_LAB1002,91d1dba5-bd31-4f0f-857a-1fae38165a6d,Blood Glucose,product.labOrders,service,90
-haiti_LAB1003,00ce9624-11e3-4015-b695-d7ff7cb3930e,Blood Group,product.labOrders,service,85
-haiti_LAB1004,c108ee98-5abc-43f3-9653-fc920d79e133,Urinalysis,product.labOrders,service,70
-haiti_LAB1005,382c9fa6-81d8-48c7-8b45-7866f5473030,Sickling Test,product.labOrders,service,75
-haiti_LAB1006,784a3266-485d-49a3-851f-44hy93df4edb,Vaginal Swab (Gram Stain),product.labOrders,service,85
-haiti_LAB1007,784a3266-485d-49a3-851f-2a2c93df4edb,Vaginal Swab (Wet Mount),product.labOrders,service,85
-haiti_LAB1008,3fb9fc5a-3a35-4298-9a92-c24853adf4f9,Hematocrit,product.labOrders,service,60
-haiti_LAB1009,e1a77dc7-c7d6-41d2-9c4e-93acc1093bcf,Complete Blood Count,product.labOrders,service,125
-haiti_LAB1010,7036964e-e177-465e-8af8-b1b761f290c5,Erythrocyte Sedimentation Rate,product.labOrders,service,100
-haiti_LAB1011,a60b7de5-d126-4b28-8efc-2a81de5165f0,Widal,product.labOrders,service,100
-haiti_LAB1012,92f1d76a-4091-4b99-83d4-633b5fbd096e,H. Pylori,product.labOrders,service,350
-haiti_LAB1013,508c9da4-56f9-4129-9a0e-766fb8e74f3e,Malaria,product.labOrders,service,0
-haiti_LAB1014,c960002a-a4fd-425d-b24a-c255862e3e03,Stool Analysis,product.labOrders,service,75
-haiti_LAB1015,0758ec9f-efd5-4421-a6ee-41aa397f05a9,White Blood Cell Count,product.labOrders,service,0
-haiti_LAB1016,3cf0a904-b1ad-4c35-b2d3-20634e2c4820,Red Blood Cell Count,product.labOrders,service,0
-haiti_LAB1017,becd4484-4379-4069-8448-d7211f3654c4,Hemoglobin,product.labOrders,service,0
-haiti_LAB1018,26ffad22-33ed-433f-8430-99fcafcb4baa,Neutrophils,product.labOrders,service,0
-haiti_LAB1019,f8bd08fd-0243-4ca6-8257-c0ecbddde480,Eosinophils,product.labOrders,service,0
-haiti_LAB1020,1a951978-61d9-4ef6-9481-d2456f3b4b0c,Basophils,product.labOrders,service,0
-haiti_LAB1021,86cea01d-37ef-4275-9f28-05997a759c02,Lymphocytes,product.labOrders,service,0
-haiti_LAB1022,4fb44f2b-cb12-488d-b8de-3f4a7917e45f,Monocytes,product.labOrders,service,0
-haiti_LAB1023,3b878b87-844e-47de-97b5-50d9fbb3f4d3,Reticulocytes,product.labOrders,service,0
-haiti_LAB1024,5c64ff49-2821-476c-af50-8dab7275eeed,Mean Corpuscular Volume,product.labOrders,service,0
-haiti_LAB1025,137e9ba3-85ad-4fe3-bcbc-f05bc4613d34,Mean Corpuscular Hemoglobin Concentration,product.labOrders,service,0
-haiti_LAB1026,ec4c96b4-1da4-41b6-978b-4d71d2821153,Mean Corpuscular Hemoglobin,product.labOrders,service,0
-haiti_LAB1027,28241008-8e07-47ec-8692-3c276e6fae4a,Platelets,product.labOrders,service,0
-haiti_LAB1028,7f2b179f-aaab-43cf-8f37-7eb9563db85d,Urine Colour,product.labOrders,service,0
-haiti_LAB1029,862c9e83-c66a-4e38-a5fd-57f7ef757d7e,Urine Appearance,product.labOrders,service,0
-haiti_LAB1030,6cc30635-0487-45f5-9214-d9c49fcd0372,Density,product.labOrders,service,0
-haiti_LAB1031,16d344a9-c47c-4aa6-bb6a-9bfcce69f420,pH,product.labOrders,service,0
-haiti_LAB1032,d04d3d38-a009-4e7f-a8a0-49e4be99cfbd,Blood in urine,product.labOrders,service,0
-haiti_LAB1033,1eda2b4c-16e1-4276-9439-116ea7d5ce58,Nitrites,product.labOrders,service,0
-haiti_LAB1034,8b1d6a06-a2a8-48ff-aba0-9b06735de0c4,Glucose,product.labOrders,service,0
-haiti_LAB1035,38c84115-c528-4472-8bdd-fec228468877,Acetone Ketone,product.labOrders,service,0
-haiti_LAB1036,946359c0-9855-4d4a-ac42-a22ff3172eed,Albumin,product.labOrders,service,0
-haiti_LAB1037,84976d7c-8bb4-4584-a812-e00e99cf2e4c,Ascorbic Acid,product.labOrders,service,0
-haiti_LAB1038,61c0f1d9-6440-4a22-9c55-b10603245254,Bilirubin,product.labOrders,service,0
-haiti_LAB1039,bb655797-22dc-4d21-9806-88fbc62cd601,Urobilinogen,product.labOrders,service,0
-haiti_LAB1040,a360c76e-b365-4854-97f9-1703ec29cb48,Protein,product.labOrders,service,0
-haiti_LAB1041,e5dc4fb9-5a3c-4956-9a39-66aaaf64adcc,Leucocytes,product.labOrders,service,0
-haiti_LAB1042,e3ae7371-8a91-413e-8f99-93bc8f45a07a,White Blood Cells,product.labOrders,service,0
-haiti_LAB1043,668b296c-a1fc-4d2f-bfad-1997704a4762,Red Blood Cells,product.labOrders,service,0
-haiti_LAB1044,168f4adf-4beb-49d2-8070-b2776ccd2b23,Bacteria,product.labOrders,service,0
-haiti_LAB1045,1d832608-72a0-4e18-af6c-5d3bc2c18caf,Epithelial Cells,product.labOrders,service,0
-haiti_LAB1046,d2f224b3-7604-4ae0-a7ae-93ea92ce7106,Budding Yeasts,product.labOrders,service,0
-haiti_LAB1047,8ac2c2c6-5333-43ac-b2ee-25077160b443,Simple Yeasts,product.labOrders,service,0
-haiti_LAB1048,93cbd183-498b-4dd0-8002-b0d49d00709c,Mycelium,product.labOrders,service,0
-haiti_LAB1049,dcceb533-a900-4f52-ae97-be1ad9b87bc9,Macrophages,product.labOrders,service,0
-haiti_LAB1050,20254f8b-7035-44b1-ba0b-6001f0559cf6,Kidney Cells,product.labOrders,service,0
-haiti_LAB1051,555381cf-08f1-4924-9e62-2baf9b9e0d9c,Leukocyte Cylinders,product.labOrders,service,0
-haiti_LAB1052,bcb400cc-8560-449e-b5f0-39a1074f9acf,Granular Cylinders,product.labOrders,service,0
-haiti_LAB1053,e653561e-861c-4406-a576-270518b4d2e4,Hyaline Cylinders,product.labOrders,service,0
-haiti_LAB1054,529b1fbb-4575-41b0-b91d-93220cebeca8,Erythrocyte Cylinders,product.labOrders,service,0
-haiti_LAB1055,759af646-8555-41ad-aa62-0a932743bfe1,Crystals,product.labOrders,service,0
-haiti_LAB1056,6a5a0914-a34d-4d5c-954f-020dd925596c,Trichomonas Vaginalis,product.labOrders,service,0
-haiti_LAB1057,909a373e-b077-413d-a43e-dc4461f51f20,Gram-positive Cocci,product.labOrders,service,0
-haiti_LAB1058,19cde42f-3040-4d44-96c0-0fa740e748c8,Gram-negative Cocci,product.labOrders,service,0
-haiti_LAB1059,485af765-a605-4438-88cc-f730414901ab,Gram-positive Diplococci,product.labOrders,service,0
-haiti_LAB1060,53dd642f-a859-4706-a911-861128ad0a9a,Gram-negative Diplococci,product.labOrders,service,0
-haiti_LAB1061,5d687ffe-d0d8-48fe-a9c6-ed5d47cae953,Gram-negative Intracellular Diplococci,product.labOrders,service,0
-haiti_LAB1062,bb645ded-3ebb-4117-9f81-51d1ce236f1f,Gram-positive Bacilli,product.labOrders,service,0
-haiti_LAB1063,d4db3add-39c5-4d42-bd11-3dd6a32d136a,Gram-negative Bacilli,product.labOrders,service,0
-haiti_LAB1064,1d86445f-f0af-4612-80f6-f9cacf055844,Coccobacilli,product.labOrders,service,0
-haiti_LAB1065,23b53f61-2845-4922-82a2-63e024afbcb2,Clue cell,product.labOrders,service,0
-haiti_LAB1066,d00b8f8d-99f1-4d1b-806b-f2ca1353f7f8,Stool Consistence,product.labOrders,service,0
-haiti_LAB1067,40f3ff80-44ff-4fad-b0eb-fa89ff05e1f8,Stool Appearance,product.labOrders,service,0
-haiti_LAB1068,88094e41-e2c7-443f-8770-f46c78e03e7e,Stool Colour,product.labOrders,service,0
-haiti_LAB1061,4b81c46d-ca6d-4e76-928e-5c90e76a8df7,Stool Parasites,product.labOrders,service,0
+haiti_LAB1001,571e8f4f-4d98-40eb-bd55-c88b8a8ab76d,Gravindex,product.labOrder,service,90
+haiti_LAB1002,91d1dba5-bd31-4f0f-857a-1fae38165a6d,Blood Glucose,product.labOrder,service,90
+haiti_LAB1003,00ce9624-11e3-4015-b695-d7ff7cb3930e,Blood Group,product.labOrder,service,85
+haiti_LAB1004,c108ee98-5abc-43f3-9653-fc920d79e133,Urinalysis,product.labOrder,service,70
+haiti_LAB1005,382c9fa6-81d8-48c7-8b45-7866f5473030,Sickling Test,product.labOrder,service,75
+haiti_LAB1006,784a3266-485d-49a3-851f-44hy93df4edb,Vaginal Swab (Gram Stain),product.labOrder,service,85
+haiti_LAB1007,784a3266-485d-49a3-851f-2a2c93df4edb,Vaginal Swab (Wet Mount),product.labOrder,service,85
+haiti_LAB1008,3fb9fc5a-3a35-4298-9a92-c24853adf4f9,Hematocrit,product.labOrder,service,60
+haiti_LAB1009,e1a77dc7-c7d6-41d2-9c4e-93acc1093bcf,Complete Blood Count,product.labOrder,service,125
+haiti_LAB1010,7036964e-e177-465e-8af8-b1b761f290c5,Erythrocyte Sedimentation Rate,product.labOrder,service,100
+haiti_LAB1011,a60b7de5-d126-4b28-8efc-2a81de5165f0,Widal,product.labOrder,service,100
+haiti_LAB1012,92f1d76a-4091-4b99-83d4-633b5fbd096e,H. Pylori,product.labOrder,service,350
+haiti_LAB1013,508c9da4-56f9-4129-9a0e-766fb8e74f3e,Malaria,product.labOrder,service,0
+haiti_LAB1014,c960002a-a4fd-425d-b24a-c255862e3e03,Stool Analysis,product.labOrder,service,75
+haiti_LAB1015,0758ec9f-efd5-4421-a6ee-41aa397f05a9,White Blood Cell Count,product.labOrder,service,0
+haiti_LAB1016,3cf0a904-b1ad-4c35-b2d3-20634e2c4820,Red Blood Cell Count,product.labOrder,service,0
+haiti_LAB1017,becd4484-4379-4069-8448-d7211f3654c4,Hemoglobin,product.labOrder,service,0
+haiti_LAB1018,26ffad22-33ed-433f-8430-99fcafcb4baa,Neutrophils,product.labOrder,service,0
+haiti_LAB1019,f8bd08fd-0243-4ca6-8257-c0ecbddde480,Eosinophils,product.labOrder,service,0
+haiti_LAB1020,1a951978-61d9-4ef6-9481-d2456f3b4b0c,Basophils,product.labOrder,service,0
+haiti_LAB1021,86cea01d-37ef-4275-9f28-05997a759c02,Lymphocytes,product.labOrder,service,0
+haiti_LAB1022,4fb44f2b-cb12-488d-b8de-3f4a7917e45f,Monocytes,product.labOrder,service,0
+haiti_LAB1023,3b878b87-844e-47de-97b5-50d9fbb3f4d3,Reticulocytes,product.labOrder,service,0
+haiti_LAB1024,5c64ff49-2821-476c-af50-8dab7275eeed,Mean Corpuscular Volume,product.labOrder,service,0
+haiti_LAB1025,137e9ba3-85ad-4fe3-bcbc-f05bc4613d34,Mean Corpuscular Hemoglobin Concentration,product.labOrder,service,0
+haiti_LAB1026,ec4c96b4-1da4-41b6-978b-4d71d2821153,Mean Corpuscular Hemoglobin,product.labOrder,service,0
+haiti_LAB1027,28241008-8e07-47ec-8692-3c276e6fae4a,Platelets,product.labOrder,service,0
+haiti_LAB1028,7f2b179f-aaab-43cf-8f37-7eb9563db85d,Urine Colour,product.labOrder,service,0
+haiti_LAB1029,862c9e83-c66a-4e38-a5fd-57f7ef757d7e,Urine Appearance,product.labOrder,service,0
+haiti_LAB1030,6cc30635-0487-45f5-9214-d9c49fcd0372,Density,product.labOrder,service,0
+haiti_LAB1031,16d344a9-c47c-4aa6-bb6a-9bfcce69f420,pH,product.labOrder,service,0
+haiti_LAB1032,d04d3d38-a009-4e7f-a8a0-49e4be99cfbd,Blood in urine,product.labOrder,service,0
+haiti_LAB1033,1eda2b4c-16e1-4276-9439-116ea7d5ce58,Nitrites,product.labOrder,service,0
+haiti_LAB1034,8b1d6a06-a2a8-48ff-aba0-9b06735de0c4,Glucose,product.labOrder,service,0
+haiti_LAB1035,38c84115-c528-4472-8bdd-fec228468877,Acetone Ketone,product.labOrder,service,0
+haiti_LAB1036,946359c0-9855-4d4a-ac42-a22ff3172eed,Albumin,product.labOrder,service,0
+haiti_LAB1037,84976d7c-8bb4-4584-a812-e00e99cf2e4c,Ascorbic Acid,product.labOrder,service,0
+haiti_LAB1038,61c0f1d9-6440-4a22-9c55-b10603245254,Bilirubin,product.labOrder,service,0
+haiti_LAB1039,bb655797-22dc-4d21-9806-88fbc62cd601,Urobilinogen,product.labOrder,service,0
+haiti_LAB1040,a360c76e-b365-4854-97f9-1703ec29cb48,Protein,product.labOrder,service,0
+haiti_LAB1041,e5dc4fb9-5a3c-4956-9a39-66aaaf64adcc,Leucocytes,product.labOrder,service,0
+haiti_LAB1042,e3ae7371-8a91-413e-8f99-93bc8f45a07a,White Blood Cells,product.labOrder,service,0
+haiti_LAB1043,668b296c-a1fc-4d2f-bfad-1997704a4762,Red Blood Cells,product.labOrder,service,0
+haiti_LAB1044,168f4adf-4beb-49d2-8070-b2776ccd2b23,Bacteria,product.labOrder,service,0
+haiti_LAB1045,1d832608-72a0-4e18-af6c-5d3bc2c18caf,Epithelial Cells,product.labOrder,service,0
+haiti_LAB1046,d2f224b3-7604-4ae0-a7ae-93ea92ce7106,Budding Yeasts,product.labOrder,service,0
+haiti_LAB1047,8ac2c2c6-5333-43ac-b2ee-25077160b443,Simple Yeasts,product.labOrder,service,0
+haiti_LAB1048,93cbd183-498b-4dd0-8002-b0d49d00709c,Mycelium,product.labOrder,service,0
+haiti_LAB1049,dcceb533-a900-4f52-ae97-be1ad9b87bc9,Macrophages,product.labOrder,service,0
+haiti_LAB1050,20254f8b-7035-44b1-ba0b-6001f0559cf6,Kidney Cells,product.labOrder,service,0
+haiti_LAB1051,555381cf-08f1-4924-9e62-2baf9b9e0d9c,Leukocyte Cylinders,product.labOrder,service,0
+haiti_LAB1052,bcb400cc-8560-449e-b5f0-39a1074f9acf,Granular Cylinders,product.labOrder,service,0
+haiti_LAB1053,e653561e-861c-4406-a576-270518b4d2e4,Hyaline Cylinders,product.labOrder,service,0
+haiti_LAB1054,529b1fbb-4575-41b0-b91d-93220cebeca8,Erythrocyte Cylinders,product.labOrder,service,0
+haiti_LAB1055,759af646-8555-41ad-aa62-0a932743bfe1,Crystals,product.labOrder,service,0
+haiti_LAB1056,6a5a0914-a34d-4d5c-954f-020dd925596c,Trichomonas Vaginalis,product.labOrder,service,0
+haiti_LAB1057,909a373e-b077-413d-a43e-dc4461f51f20,Gram-positive Cocci,product.labOrder,service,0
+haiti_LAB1058,19cde42f-3040-4d44-96c0-0fa740e748c8,Gram-negative Cocci,product.labOrder,service,0
+haiti_LAB1059,485af765-a605-4438-88cc-f730414901ab,Gram-positive Diplococci,product.labOrder,service,0
+haiti_LAB1060,53dd642f-a859-4706-a911-861128ad0a9a,Gram-negative Diplococci,product.labOrder,service,0
+haiti_LAB1061,5d687ffe-d0d8-48fe-a9c6-ed5d47cae953,Gram-negative Intracellular Diplococci,product.labOrder,service,0
+haiti_LAB1062,bb645ded-3ebb-4117-9f81-51d1ce236f1f,Gram-positive Bacilli,product.labOrder,service,0
+haiti_LAB1063,d4db3add-39c5-4d42-bd11-3dd6a32d136a,Gram-negative Bacilli,product.labOrder,service,0
+haiti_LAB1064,1d86445f-f0af-4612-80f6-f9cacf055844,Coccobacilli,product.labOrder,service,0
+haiti_LAB1065,23b53f61-2845-4922-82a2-63e024afbcb2,Clue cell,product.labOrder,service,0
+haiti_LAB1066,d00b8f8d-99f1-4d1b-806b-f2ca1353f7f8,Stool Consistence,product.labOrder,service,0
+haiti_LAB1067,40f3ff80-44ff-4fad-b0eb-fa89ff05e1f8,Stool Appearance,product.labOrder,service,0
+haiti_LAB1068,88094e41-e2c7-443f-8770-f46c78e03e7e,Stool Colour,product.labOrder,service,0
+haiti_LAB1061,4b81c46d-ca6d-4e76-928e-5c90e76a8df7,Stool Parasites,product.labOrder,service,0
