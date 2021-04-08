@@ -12,6 +12,9 @@ syncable_units_Puff(s),Puff(s),1f97c3a5-2786-447f-9da4-a60d3d3b5691
 syncable_units_Tablespoon,Tablespoon(s),e83da3df-d566-4306-a4a0-d14aebec3acc
 syncable_units_Tablet(s),Tablet(s),74ea4fb4-1b15-4530-98b4-eb21865d1a75
 syncable_units_Teaspoon,Teaspoon(s),a5fe3a74-9f74-433a-bf39-024239ab9167
-syncable_units_Unit(s),Unit(s),f9683d3c-a152-4849-a3d4-a3f9c165d949
+syncable_units_Unit(s),Unit(s),product.product_uom_unit
 syncable_units_Vial(s),Vial(s),42709d9b-83d7-4523-90ba-f2e6a52c59e6
 syncable_units_Bottle(s),Bottle(s),52c5bd1b-7679-45cc-ac8e-1eb8dd92ab7a
+syncable_units_Tube(s),Tube(s),0d0b3654-75ab-4315-9264-2ddbb1e9400c
+syncable_units_Inhaler(s),Inhaler(s),2b4ca899-528a-4b5a-a474-4adb2a299be2
+syncable_units_Container(s),Container(s),ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52

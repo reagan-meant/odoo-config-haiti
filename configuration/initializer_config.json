@@ -1,10 +1,6 @@
 {
     "models" : [
-        {
-            "model_name": "product.uom",
-            "folder": "units_of_measure",
-            "field_rules": {}
-        },
+     
         {
             "model_name": "syncable.units.mapping",
             "folder": "syncable_units_mapping",
