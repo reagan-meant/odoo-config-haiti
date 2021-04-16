@@ -6,10 +6,10 @@ product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this categor
 product.product_uom_categ_vol,20000,0.01,Smaller than the reference Unit of Measure,2114fcb9-eab7-4ad7-afa3-ae043a542b4c,Goutte(s)
 product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category,6c761abc-b59a-4db8-b124-b0a69a812423,IU
 product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,3606f9fe-9612-49af-a317-3877a075443c,Paquet(s)
-product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,1f97c3a5-2786-447f-9da4-a60d3d3b5691,Bouffée(s)
-product.product_uom_categ_vol,67.628,0.01,Smaller than the reference Unit of Measure,e83da3df-d566-4306-a4a0-d14aebec3acc,Cuillère(s) à soupe
-product.product_uom_categ_kgm,1,0.01,Reference Unit of Measure for this category,74ea4fb4-1b15-4530-98b4-eb21865d1a75,Comprimé(s)
-product.product_uom_categ_vol,202.884,0.01,Smaller than the reference Unit of Measure,a5fe3a74-9f74-433a-bf39-024239ab9167,Cuillère(s) à café
+product.product_uom_categ_unit,1,0.01,Reference Unit of Measure for this category,1f97c3a5-2786-447f-9da4-a60d3d3b5691,Bouffee(s)
+product.product_uom_categ_vol,67.628,0.01,Smaller than the reference Unit of Measure,e83da3df-d566-4306-a4a0-d14aebec3acc,Cuillere(s) a soupe
+product.product_uom_categ_kgm,1,0.01,Reference Unit of Measure for this category,74ea4fb4-1b15-4530-98b4-eb21865d1a75,Comprime(s)
+product.product_uom_categ_vol,202.884,0.01,Smaller than the reference Unit of Measure,a5fe3a74-9f74-433a-bf39-024239ab9167,Cuillere(s) a cafe
 product.product_uom_categ_vol,1,0.01,Reference Unit of Measure for this category,42709d9b-83d7-4523-90ba-f2e6a52c59e6,Fiole(s)
 product.product_uom_categ_kgm,1000000,0.01,Smaller than the reference Unit of Measure,9ee018c0-24c0-4cf0-ae66-de60d5b3298f,mg
 product.product_uom_categ_vol,1000,0.01,Smaller than the reference Unit of Measure,1c8463f1-9563-4633-81f9-8e7642d55e48,ml

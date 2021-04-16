@@ -8,11 +8,11 @@ syncable_units_IU,IU,6c761abc-b59a-4db8-b124-b0a69a812423
 syncable_units_mg,mg,9ee018c0-24c0-4cf0-ae66-de60d5b3298f
 syncable_units_ml,ml,1c8463f1-9563-4633-81f9-8e7642d55e48
 syncable_units_Paquet,Paquet(s),3606f9fe-9612-49af-a317-3877a075443c
-syncable_units_Bouffée(s),Bouffée(s),1f97c3a5-2786-447f-9da4-a60d3d3b5691
-syncable_units_Cuillère(s) à soupe,Cuillère(s) à soupe,e83da3df-d566-4306-a4a0-d14aebec3acc
-syncable_units_Comprimé(s),Comprimé(s),74ea4fb4-1b15-4530-98b4-eb21865d1a75
-syncable_units_Cuillère(s) à café,Cuillère(s) à café,a5fe3a74-9f74-433a-bf39-024239ab9167
-syncable_units_Unit(s),Unit(s),product.product_uom_unit
+syncable_units_Bouffee(s),Bouffee(s),1f97c3a5-2786-447f-9da4-a60d3d3b5691
+syncable_units_Cuillere(s) a soupe,Cuillere(s) a soupe,e83da3df-d566-4306-a4a0-d14aebec3acc
+syncable_units_Comprime(s),Comprime(s),74ea4fb4-1b15-4530-98b4-eb21865d1a75
+syncable_units_Cuillere(s) a cafe,Cuillere(s) a cafe,a5fe3a74-9f74-433a-bf39-024239ab9167
+syncable_units_Unite(s),Unite(s),product.product_uom_unit
 syncable_units_Fiole(s),Fiole(s),42709d9b-83d7-4523-90ba-f2e6a52c59e6
 syncable_units_Bouteille(s),Bouteille(s),52c5bd1b-7679-45cc-ac8e-1eb8dd92ab7a
 syncable_units_Tube(s),Tube(s),0d0b3654-75ab-4315-9264-2ddbb1e9400c
