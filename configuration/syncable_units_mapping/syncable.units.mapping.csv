@@ -1,7 +1,7 @@
 id,name,unit_of_measure/id
 syncable_units_Ampoule(s),Ampoule(s),f303ec09-ab78-43d9-abf2-06839f4eb491
 syncable_units_Application,Application(s),41a8984e-c1c1-4512-bce9-978fe7dd6502
-syncable_units_Gellule(s),Gellule(s),57f78dee-f842-4c23-91b8-5d234fd036f7
+syncable_units_Gelule(s),Gelule(s),57f78dee-f842-4c23-91b8-5d234fd036f7
 syncable_units_Dose,Dose(s),43519b0a-41dc-438c-820c-e3664f30d2ba
 syncable_units_Goutte(s),Goutte(s),2114fcb9-eab7-4ad7-afa3-ae043a542b4c
 syncable_units_IU,IU,6c761abc-b59a-4db8-b124-b0a69a812423
