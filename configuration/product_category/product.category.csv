@@ -2,3 +2,4 @@ id,name,parent_id/id,property_valuation,property_cost_method,type,property_accou
 product.product,Product,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
 product.labOrder,LabOrder,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
 product.visitType,Visit type,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
+product.coupon,Coupon,,Periodic (manual),Standard Price,Normal,haiti_account_4299,
