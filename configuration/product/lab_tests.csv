@@ -1,7 +1,7 @@
 id,product_variant_ids/uuid,name,product_variant_ids/categ_id/id,type,lst_price
 haiti_LAB1001,91d1dba5-bd31-4f0f-857a-1fae38165a6d,Glycemie,product.labOrder,service,90
 haiti_LAB1002,00ce9624-11e3-4015-b695-d7ff7cb3930e,Groupe sanguin,product.labOrder,service,90
-haiti_LAB1003,508c9da4-56f9-4129-9a0e-766fb8e74f3e,Paludisme,product.labOrder,service,85
+haiti_LAB1003,508c9da4-56f9-4129-9a0e-766fb8e74f3e,Malaria,product.labOrder,service,85
 haiti_LAB1004,7036964e-e177-465e-8af8-b1b761f290c5,Vitesse de sedimentation,product.labOrder,service,70
 haiti_LAB1005,a60b7de5-d126-4b28-8efc-2a81de5165f0,Widal,product.labOrder,service,75
 haiti_LAB1006,92f1d76a-4091-4b99-83d4-633b5fbd096e,H. Pylori,product.labOrder,service,85
@@ -22,8 +22,8 @@ haiti_LAB1020,ec4c96b4-1da4-41b6-978b-4d71d2821153,Hemoglobine corpusculaire moy
 haiti_LAB1021,28241008-8e07-47ec-8692-3c276e6fae4a,Plaquettes,product.labOrder,service,0
 haiti_LAB1022,e1a77dc7-c7d6-41d2-9c4e-93acc1093bcf,Hemogramme complet,product.labOrder,service,100
 haiti_LAB1023,571e8f4f-4d98-40eb-bd55-c88b8a8ab76d,Gravindex,product.labOrder,service,0
-haiti_LAB1024,7f2b179f-aaab-43cf-8f37-7eb9563db85d,Couleur,product.labOrder,service,0
-haiti_LAB1025,862c9e83-c66a-4e38-a5fd-57f7ef757d7e,Aspect,product.labOrder,service,0
+haiti_LAB1024,7f2b179f-aaab-43cf-8f37-7eb9563db85d,Couleur de l'urine,product.labOrder,service,0
+haiti_LAB1025,862c9e83-c66a-4e38-a5fd-57f7ef757d7e,Apparence de l'urine,product.labOrder,service,0
 haiti_LAB1026,6cc30635-0487-45f5-9214-d9c49fcd0372,Densite ,product.labOrder,service,0
 haiti_LAB1027,16d344a9-c47c-4aa6-bb6a-9bfcce69f420,pH,product.labOrder,service,0
 haiti_LAB1028,d04d3d38-a009-4e7f-a8a0-49e4be99cfbd,Sang dans l'urine,product.labOrder,service,0
@@ -59,20 +59,21 @@ haiti_LAB1057,e653561e-861c-4406-a576-270518b4d2e4,Cylindres hyalins,product.lab
 haiti_LAB1058,529b1fbb-4575-41b0-b91d-93220cebeca8,Cylindres erythrocytaires,product.labOrder,service,0
 haiti_LAB1059,759af646-8555-41ad-aa62-0a932743bfe1,Cristaux,product.labOrder,service,0
 haiti_LAB1060,c108ee98-5abc-43f3-9653-fc920d79e133,Analyse d'urine,product.labOrder,service,50
-haiti_LAB1061,909a373e-b077-413d-a43e-dc4461f51f20,Coccies e Gram positif,product.labOrder,service,0
-haiti_LAB1062,19cde42f-3040-4d44-96c0-0fa740e748c8,Coccies e Gram negatif,product.labOrder,service,0
-haiti_LAB1063,485af765-a605-4438-88cc-f730414901ab,Diplocoques e Gram positif,product.labOrder,service,0
-haiti_LAB1064,53dd642f-a859-4706-a911-861128ad0a9a,Diplocoques e Gram negatif,product.labOrder,service,0
-haiti_LAB1065,5d687ffe-d0d8-48fe-a9c6-ed5d47cae953,Diplocoques e Gram negatif Intracellulaire,product.labOrder,service,0
-haiti_LAB1066,bb645ded-3ebb-4117-9f81-51d1ce236f1f,Bacilles e Gram positif,product.labOrder,service,0
-haiti_LAB1067,d4db3add-39c5-4d42-bd11-3dd6a32d136a,Bacilles e Gram negatif,product.labOrder,service,0
+haiti_LAB1061,909a373e-b077-413d-a43e-dc4461f51f20,Coccies a Gram positif,product.labOrder,service,0
+haiti_LAB1062,19cde42f-3040-4d44-96c0-0fa740e748c8,Coccies a Gram negatif,product.labOrder,service,0
+haiti_LAB1063,485af765-a605-4438-88cc-f730414901ab,Diplocoques a Gram positif,product.labOrder,service,0
+haiti_LAB1064,53dd642f-a859-4706-a911-861128ad0a9a,Diplocoques a Gram negatif,product.labOrder,service,0
+haiti_LAB1065,5d687ffe-d0d8-48fe-a9c6-ed5d47cae953,Diplocoques a Gram negatif Intracellulaire,product.labOrder,service,0
+haiti_LAB1066,bb645ded-3ebb-4117-9f81-51d1ce236f1f,Bacilles a Gram positif,product.labOrder,service,0
+haiti_LAB1067,d4db3add-39c5-4d42-bd11-3dd6a32d136a,Bacilles a Gram negatif,product.labOrder,service,0
 haiti_LAB1068,1d86445f-f0af-4612-80f6-f9cacf055844,Coccobacilles,product.labOrder,service,0
-haiti_LAB1061,784a3266-485d-49a3-851f-44hy93df4edb,Coloration de Gram (Frottis vaginal),product.labOrder,service,15
-haiti_LAB1062,23b53f61-2845-4922-82a2-63e024afbcb2,Clue cell,product.labOrder,service,0
-haiti_LAB1063,784a3266-485d-49a3-851f-2a2c93df4edb,Goutte pendante,product.labOrder,service,20
-haiti_LAB1064,d00b8f8d-99f1-4d1b-806b-f2ca1353f7f8,Consistance des selles,product.labOrder,service,0
-haiti_LAB1065,40f3ff80-44ff-4fad-b0eb-fa89ff05e1f8,Aspect des selles,product.labOrder,service,0
-haiti_LAB1066,88094e41-e2c7-443f-8770-f46c78e03e7e,Couleur des selles,product.labOrder,service,0
-haiti_LAB1067,4b81c46d-ca6d-4e76-928e-5c90e76a8df7,Parasites de selles,product.labOrder,service,0
-haiti_LAB1068,c960002a-a4fd-425d-b24a-c255862e3e03,Analyse des selles,product.labOrder,service,0
-haiti_LAB1069,94bea8da-9133-4f8f-bdb4-9118838ef6b0,Bacilloscopie des crachats en serie,product.labOrder,service,10
+haiti_LAB1069,784a3266-485d-49a3-851f-44hy93df4edb,Coloration de Gram (Frottis vaginal),product.labOrder,service,15
+haiti_LAB1070,23b53f61-2845-4922-82a2-63e024afbcb2,Clue cell,product.labOrder,service,0
+haiti_LAB1071,784a3266-485d-49a3-851f-2a2c93df4edb,Goutte pendante,product.labOrder,service,20
+haiti_LAB1072,d00b8f8d-99f1-4d1b-806b-f2ca1353f7f8,Consistance des selles,product.labOrder,service,0
+haiti_LAB1073,40f3ff80-44ff-4fad-b0eb-fa89ff05e1f8,Aspect des selles,product.labOrder,service,0
+haiti_LAB1074,88094e41-e2c7-443f-8770-f46c78e03e7e,Couleur des selles,product.labOrder,service,0
+haiti_LAB1075,4b81c46d-ca6d-4e76-928e-5c90e76a8df7,Parasites de selles,product.labOrder,service,0
+haiti_LAB1076,c960002a-a4fd-425d-b24a-c255862e3e03,Analyse des selles,product.labOrder,service,0
+haiti_LAB1077,94bea8da-9133-4f8f-bdb4-9118838ef6b0,Bacilloscopie des crachats en serie,product.labOrder,service,10
+haiti_LAB1078,382c9fa6-81d8-48c7-8b45-7866f5473030,Sickling Test,product.labOrder,service,85
