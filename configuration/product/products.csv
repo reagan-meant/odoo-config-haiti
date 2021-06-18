@@ -1,36 +1,38 @@
-id,name,uom_id/id,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,lst_price,standard_price,uom_po_id/id
-PDT1001,Intracath #18,product.product_uom_unit,7273399a-f5bb-43b2-865a-ba37d344c387,product.product,Stockable Product,50,45,product.product_uom_unit
-PDT1002,Intracath #20,product.product_uom_unit,1a21a922-6490-45a3-9009-23ed648322d5,product.product,Stockable Product,50,45,product.product_uom_unit
-PDT1003,Intracath #22,product.product_uom_unit,110ca2a5-fdf8-4e33-8890-a0fc07466561,product.product,Stockable Product,50,45,product.product_uom_unit
-PDT1004,Intracath #24,product.product_uom_unit,14e22438-9a0b-4d18-8f4c-884c59650aa7,product.product,Stockable Product,50,45,product.product_uom_unit
-PDT1006,Gadyen Dlo,product.product_uom_unit,06c7fe82-a32f-4619-9123-ae1b8ee1b379,product.product,Stockable Product,30,25,product.product_uom_unit
-PDT1007,Nactalia 1,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,480f230f-7a22-45fc-bf44-aedaae8ca238,product.product,Stockable Product,675,500,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52
-PDT1008,Nactalia 2,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,6a2e5b14-62cd-4923-8d50-31e6fe19a048,product.product,Stockable Product,675,500,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52
-PDT1009,Bandage (petit),product.product_uom_unit,cbeaff88-989a-44e7-b42a-a33b1ea4b2c8,product.product,Stockable Product,50,25,product.product_uom_unit
-PDT1010,Bandage (gros),product.product_uom_unit,ecb1ba6f-f519-43ef-844b-1e9dc1243e5f,product.product,Stockable Product,100,75,product.product_uom_unit
-PDT1011,Condoms,product.product_uom_unit,c1644b15-f3f9-4f75-b38c-287679f00a32,product.product,Stockable Product,0,0,product.product_uom_unit
-PDT1012,Certificat medical,product.product_uom_unit,d017233d-47a7-430d-a84f-ca95ee2271e0,product.product,Stockable Product,250,200,product.product_uom_unit
-PDT1013,Sonographie,product.product_uom_unit,f57ac723-342c-4b72-a994-1d485faad41f,product.product,Stockable Product,500,350,product.product_uom_unit
-PDT1014,Suture - Vicryl 2,product.product_uom_unit,89fe40e2-ac22-4294-84ee-04fbb0e9d886,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1015,Suture - Vicryl 3,product.product_uom_unit,53ce822d-948b-4094-a82c-c5ae3034e121,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1016,Suture - Vicryl 4,product.product_uom_unit,2e80719b-08e6-4382-aa25-0345c4fcdd87,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1017,Suture - Vicryl 5,product.product_uom_unit,09597182-7ed3-4c23-95a7-aaf3857da035,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1018,Suture - Vicryl 6,product.product_uom_unit,3522756b-cc09-4e40-b92c-b19b6166bb6e,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1019,Suture - Nylon 2,product.product_uom_unit,b519dec4-6677-4367-91b9-255fe681f54c,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1020,Suture - Nylon 3,product.product_uom_unit,06f21304-a9f0-456d-adec-63e20a2118f9,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1021,Suture - Nylon 4,product.product_uom_unit,25cbe05c-3c00-4fdf-9b15-04808dce308b,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1022,Suture - Nylon 5,product.product_uom_unit,c9348077-582c-46e0-880e-e810355c9994,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1023,Suture - Nylon 6,product.product_uom_unit,bf25bcff-a05c-4e63-9e78-f4c93e346efc,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1024,Suture-chromic 1,product.product_uom_unit,bc0cddd4-4b9d-4377-aef5-b191df84e979,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1025,Suture-chromic 2,product.product_uom_unit,9e720e28-6c49-4114-8f52-71ab8b9d9980,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1026,Suture-chromic 3,product.product_uom_unit,82572bed-88ce-4e45-a3fc-233ca5bcc449,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1027,Suture-chromic 4,product.product_uom_unit,133e8d31-f1bf-4952-a7c5-c26a1e62796d,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1028,Suture-chromic 5,product.product_uom_unit,8a20efef-3f45-4bbc-bcd9-f44e38b2bf98,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1029,Suture-chromic 6,product.product_uom_unit,49d967e2-b5c0-44c3-8ff2-58d71c1ef0c8,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1030,Suture-prolene 1,product.product_uom_unit,bf8a49c8-f958-4747-9133-db123c8c96e9,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1031,Suture-prolene 2,product.product_uom_unit,56691f2d-0f8d-4edd-9fbc-44aa1ea4eb74,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1032,Suture-prolene 3,product.product_uom_unit,148b59d6-a697-40b6-ac26-be4b609a6603,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1033,Suture-prolene 4,product.product_uom_unit,94cbd20e-b1d8-468e-bf0b-595e1debf313,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1034,Suture-prolene 5,product.product_uom_unit,4fa1c63a-ef3a-4329-a8d1-8757190c14da,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1035,Suture-prolene 6,product.product_uom_unit,4a48f61d-9991-4e14-98a1-e8239599dd23,product.product,Stockable Product,200,150,product.product_uom_unit
-PDT1036,Serum de Rehydratation,product.product_uom_unit,6050134f-0170-4f86-b544-a3a8f301e3c4,product.product,Stockable Product,30,20,product.product_uom_unit
+id,name,lst_price,standard_price,uom_id/id,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,uom_po_id/id
+PDT1000,Intracath #14,45,75,product.product_uom_unit,0bf43c68-051a-4b0a-8d2b-9fe7c41151c9,product.product,Stockable Product,product.product_uom_unit
+PDT1001,Intracath #18,45,75,product.product_uom_unit,7273399a-f5bb-43b2-865a-ba37d344c387,product.product,Stockable Product,product.product_uom_unit
+PDT1002,Intracath #20,45,75,product.product_uom_unit,1a21a922-6490-45a3-9009-23ed648322d5,product.product,Stockable Product,product.product_uom_unit
+PDT1003,Intracath #22,45,75,product.product_uom_unit,110ca2a5-fdf8-4e33-8890-a0fc07466561,product.product,Stockable Product,product.product_uom_unit
+PDT1004,Intracath #24,45,75,product.product_uom_unit,14e22438-9a0b-4d18-8f4c-884c59650aa7,product.product,Stockable Product,product.product_uom_unit
+PDT1006,Gadyen Dlo,30,25,product.product_uom_unit,06c7fe82-a32f-4619-9123-ae1b8ee1b379,product.product,Stockable Product,product.product_uom_unit
+PDT1007,Nactalia 1,450,500,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,480f230f-7a22-45fc-bf44-aedaae8ca238,product.product,Stockable Product,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52
+PDT1008,Nactalia 2,450,508,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,6a2e5b14-62cd-4923-8d50-31e6fe19a048,product.product,Stockable Product,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52
+PDT1009,Bandage (petit),75,100,product.product_uom_unit,cbeaff88-989a-44e7-b42a-a33b1ea4b2c8,product.product,Stockable Product,product.product_uom_unit
+PDT1010,Bandage (gros),150,200,product.product_uom_unit,ecb1ba6f-f519-43ef-844b-1e9dc1243e5f,product.product,Stockable Product,product.product_uom_unit
+PDT1011,Condoms,0,0,product.product_uom_unit,c1644b15-f3f9-4f75-b38c-287679f00a32,product.product,Stockable Product,product.product_uom_unit
+PDT1012,Certificat medical,25,150,product.product_uom_unit,d017233d-47a7-430d-a84f-ca95ee2271e0,product.product,Stockable Product,product.product_uom_unit
+PDT1013,Sonographie,0,200,product.product_uom_unit,f57ac723-342c-4b72-a994-1d485faad41f,product.product,Stockable Product,product.product_uom_unit
+PDT1014,Suture - Vicryl 2,125,200,product.product_uom_unit,89fe40e2-ac22-4294-84ee-04fbb0e9d886,product.product,Stockable Product,product.product_uom_unit
+PDT1015,Suture - Vicryl 3,125,200,product.product_uom_unit,53ce822d-948b-4094-a82c-c5ae3034e121,product.product,Stockable Product,product.product_uom_unit
+PDT1016,Suture - Vicryl 4,125,200,product.product_uom_unit,2e80719b-08e6-4382-aa25-0345c4fcdd87,product.product,Stockable Product,product.product_uom_unit
+PDT1017,Suture - Vicryl 5,125,200,product.product_uom_unit,09597182-7ed3-4c23-95a7-aaf3857da035,product.product,Stockable Product,product.product_uom_unit
+PDT1018,Suture - Vicryl 6,125,200,product.product_uom_unit,3522756b-cc09-4e40-b92c-b19b6166bb6e,product.product,Stockable Product,product.product_uom_unit
+PDT1019,Suture - Nylon 2,125,200,product.product_uom_unit,b519dec4-6677-4367-91b9-255fe681f54c,product.product,Stockable Product,product.product_uom_unit
+PDT1020,Suture - Nylon 3,125,200,product.product_uom_unit,06f21304-a9f0-456d-adec-63e20a2118f9,product.product,Stockable Product,product.product_uom_unit
+PDT1021,Suture - Nylon 4,125,200,product.product_uom_unit,25cbe05c-3c00-4fdf-9b15-04808dce308b,product.product,Stockable Product,product.product_uom_unit
+PDT1022,Suture - Nylon 5,125,200,product.product_uom_unit,c9348077-582c-46e0-880e-e810355c9994,product.product,Stockable Product,product.product_uom_unit
+PDT1023,Suture - Nylon 6,125,200,product.product_uom_unit,bf25bcff-a05c-4e63-9e78-f4c93e346efc,product.product,Stockable Product,product.product_uom_unit
+PDT1024,Suture-chromic 1,125,200,product.product_uom_unit,bc0cddd4-4b9d-4377-aef5-b191df84e979,product.product,Stockable Product,product.product_uom_unit
+PDT1025,Suture-chromic 2,125,200,product.product_uom_unit,9e720e28-6c49-4114-8f52-71ab8b9d9980,product.product,Stockable Product,product.product_uom_unit
+PDT1026,Suture-chromic 3,125,200,product.product_uom_unit,82572bed-88ce-4e45-a3fc-233ca5bcc449,product.product,Stockable Product,product.product_uom_unit
+PDT1027,Suture-chromic 4,125,200,product.product_uom_unit,133e8d31-f1bf-4952-a7c5-c26a1e62796d,product.product,Stockable Product,product.product_uom_unit
+PDT1028,Suture-chromic 5,125,200,product.product_uom_unit,8a20efef-3f45-4bbc-bcd9-f44e38b2bf98,product.product,Stockable Product,product.product_uom_unit
+PDT1029,Suture-chromic 6,125,200,product.product_uom_unit,49d967e2-b5c0-44c3-8ff2-58d71c1ef0c8,product.product,Stockable Product,product.product_uom_unit
+PDT1030,Suture-prolene 1,125,200,product.product_uom_unit,bf8a49c8-f958-4747-9133-db123c8c96e9,product.product,Stockable Product,product.product_uom_unit
+PDT1031,Suture-prolene 2,125,200,product.product_uom_unit,56691f2d-0f8d-4edd-9fbc-44aa1ea4eb74,product.product,Stockable Product,product.product_uom_unit
+PDT1032,Suture-prolene 3,125,200,product.product_uom_unit,148b59d6-a697-40b6-ac26-be4b609a6603,product.product,Stockable Product,product.product_uom_unit
+PDT1033,Suture-prolene 4,125,200,product.product_uom_unit,94cbd20e-b1d8-468e-bf0b-595e1debf313,product.product,Stockable Product,product.product_uom_unit
+PDT1034,Suture-prolene 5,125,200,product.product_uom_unit,4fa1c63a-ef3a-4329-a8d1-8757190c14da,product.product,Stockable Product,product.product_uom_unit
+PDT1035,Suture-prolene 6,125,200,product.product_uom_unit,4a48f61d-9991-4e14-98a1-e8239599dd23,product.product,Stockable Product,product.product_uom_unit
+PDT1036,Serum de Rehydratation,25,30,product.product_uom_unit,6050134f-0170-4f86-b544-a3a8f301e3c4,product.product,Stockable Product,product.product_uom_unit
+PDT1037,Injection externe,20,50,product.product_uom_unit,1ba37121-2bbb-4081-a6dd-02f63ce8c41d,product.product,Stockable Product,product.product_uom_unit
