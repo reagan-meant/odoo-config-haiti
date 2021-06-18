@@ -1,10 +1,10 @@
-id,name,lst_price,standard_price,uom_id/id,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,uom_po_id/id
-PDT1000,Intracath #14,45,75,product.product_uom_unit,0bf43c68-051a-4b0a-8d2b-9fe7c41151c9,product.product,Stockable Product,product.product_uom_unit
+id,name,standard_price,lst_price,uom_id/id,product_variant_ids/uuid,product_variant_ids/categ_id/id,type,uom_po_id/id
+PDT1000,Intracath #14,35,75,product.product_uom_unit,0bf43c68-051a-4b0a-8d2b-9fe7c41151c9,product.product,Stockable Product,product.product_uom_unit
 PDT1001,Intracath #18,45,75,product.product_uom_unit,7273399a-f5bb-43b2-865a-ba37d344c387,product.product,Stockable Product,product.product_uom_unit
 PDT1002,Intracath #20,45,75,product.product_uom_unit,1a21a922-6490-45a3-9009-23ed648322d5,product.product,Stockable Product,product.product_uom_unit
 PDT1003,Intracath #22,45,75,product.product_uom_unit,110ca2a5-fdf8-4e33-8890-a0fc07466561,product.product,Stockable Product,product.product_uom_unit
 PDT1004,Intracath #24,45,75,product.product_uom_unit,14e22438-9a0b-4d18-8f4c-884c59650aa7,product.product,Stockable Product,product.product_uom_unit
-PDT1006,Gadyen Dlo,30,25,product.product_uom_unit,06c7fe82-a32f-4619-9123-ae1b8ee1b379,product.product,Stockable Product,product.product_uom_unit
+PDT1006,Gadyen Dlo,35.41,40,product.product_uom_unit,06c7fe82-a32f-4619-9123-ae1b8ee1b379,product.product,Stockable Product,product.product_uom_unit
 PDT1007,Nactalia 1,450,500,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,480f230f-7a22-45fc-bf44-aedaae8ca238,product.product,Stockable Product,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52
 PDT1008,Nactalia 2,450,508,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52,6a2e5b14-62cd-4923-8d50-31e6fe19a048,product.product,Stockable Product,ae89f168-0d9f-4ae4-8aa6-b2f4c27a8e52
 PDT1009,Bandage (petit),75,100,product.product_uom_unit,cbeaff88-989a-44e7-b42a-a33b1ea4b2c8,product.product,Stockable Product,product.product_uom_unit
