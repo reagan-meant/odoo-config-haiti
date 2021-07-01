@@ -74,6 +74,7 @@ haiti_LAB1072,d00b8f8d-99f1-4d1b-806b-f2ca1353f7f8,Consistance des selles,produc
 haiti_LAB1073,40f3ff80-44ff-4fad-b0eb-fa89ff05e1f8,Aspect des selles,product.labOrder,service,0
 haiti_LAB1074,88094e41-e2c7-443f-8770-f46c78e03e7e,Couleur des selles,product.labOrder,service,0
 haiti_LAB1075,4b81c46d-ca6d-4e76-928e-5c90e76a8df7,Parasites de selles,product.labOrder,service,0
+haiti_LAB1079,1e196dd0-243f-4473-8103-cf7e52679e73,Microscopie des selles,product.labOrder,service,0
 haiti_LAB1076,c960002a-a4fd-425d-b24a-c255862e3e03,Analyse des selles,product.labOrder,service,0
 haiti_LAB1077,94bea8da-9133-4f8f-bdb4-9118838ef6b0,Bacilloscopie des crachats en serie,product.labOrder,service,10
 haiti_LAB1078,382c9fa6-81d8-48c7-8b45-7866f5473030,Sickling Test,product.labOrder,service,85
